@@ -3,7 +3,7 @@ module github.com/rancher/wrangler
 go 1.17
 
 require (
-	github.com/evanphx/json-patch v4.12.0+incompatible
+	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/moby/locker v1.0.1
 	github.com/pkg/errors v0.9.1
